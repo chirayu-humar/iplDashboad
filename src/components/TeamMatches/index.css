@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.outerTeamMatches {
+  min-height: 100vh;
+  background-image: linear-gradient(to bottom, #d91c1f, #a4261d, #1e293b);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 40px;
+}
+.firstOuterChild {
+  width: 100%;
+}
+.teamImage {
+  width: 100%;
+}
+.secondOuterChild {
+  width: 100%;
+}
+.thirdOuterChild {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}

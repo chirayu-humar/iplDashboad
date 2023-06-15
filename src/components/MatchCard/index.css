@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.outerMatchCard {
+  display: flex;
+  flex-direction: column;
+  background-color: #1e293b;
+  border-radius: 20px;
+  padding: 20px;
+  color: #ffffff;
+  margin-top: 10px;
+}
+.logoImg {
+  width: 50px;
+}

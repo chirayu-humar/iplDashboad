@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.outerDivLatestMatch {
+  width: 100%;
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 30px;
+  padding: 30px;
+  align-items: center;
+  color: #ffffff;
+}
+.child1 {
+  display: flex;
+  flex-direction: column;
+}
+.child2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.competingLogo {
+  width: 60%;
+}
