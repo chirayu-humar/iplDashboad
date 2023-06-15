@@ -28,7 +28,7 @@ const LatestMatch = props => {
       </div>
       {/* second div */}
       <div className="child2">
-        <img className="competingLogo" src={competingTeamLogo} />
+        <img alt="name" className="competingLogo" src={competingTeamLogo} />
       </div>
       {/* third div */}
       <div className="child3">
